@@ -1,0 +1,15 @@
+.tic-summary{
+    margin:10px;
+    margin-left:20px;
+    border:1px solid blue;
+    width:95%;
+    padding:15px;
+}
+.summary-top{
+    border-bottom: 2px solid rgb(9, 243, 243);
+    font-size:20px;
+}
+.summary-content{
+    margin:15px;
+}
+
